@@ -1,0 +1,44 @@
+// CS 432 PROJECT 0: DECAF PROGRAMMING
+//
+
+def int fact(int n)
+{
+    return -1;
+}
+
+def int fib(int n)
+{
+    return -1;
+}
+
+def bool is_prime(int n)
+{
+    return false;
+}
+
+def int gcd(int a, int b)
+{
+    return -1;
+}
+
+int nums[100];
+
+def int sum_nums(int len)
+{
+    return -1;
+}
+
+def void sort_nums(int len)
+{
+    return;
+}
+
+def void draw_triangle(int base)
+{
+    return;
+}
+
+def int main()
+{
+    return 0;
+}
